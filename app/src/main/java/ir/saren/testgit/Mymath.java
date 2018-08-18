@@ -1,4 +1,8 @@
 package ir.saren.testgit;
 
-public class Mymath {
+import android.app.Application;
+
+public class Mymath  extends Application
+{
+
 }
